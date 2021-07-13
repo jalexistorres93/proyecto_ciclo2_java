@@ -6,7 +6,6 @@ notas de las 3 evaluaciones. Si el alumno tiene un promedio mayor o igual a
 decimales.*/
 
 package Ejercicios;
-import java.math.MathContext;
 import java.util.Scanner;
 public class ejercicio2 {
     
