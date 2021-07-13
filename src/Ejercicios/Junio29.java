@@ -1,3 +1,4 @@
+package Ejercicios;
 import java.util.Scanner;
 public class Junio29{
 public static void main(String[] args){

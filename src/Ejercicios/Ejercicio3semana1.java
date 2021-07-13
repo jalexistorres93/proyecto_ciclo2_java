@@ -1,3 +1,4 @@
+package Ejercicios;
 import java.util.Scanner;
 class Ejercicio3semana1 {
     public static void main(String[] args){
