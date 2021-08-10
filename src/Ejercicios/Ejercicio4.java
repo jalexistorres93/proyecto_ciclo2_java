@@ -10,7 +10,7 @@ public class Ejercicio4 {
         Scanner num_usuario = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
         int NumeroDeUsuario =  num_usuario.nextInt();
-        System.out.println("La de multiplicar del 0 al 10 del numero " + NumeroDeUsuario + " es: ");
+        System.out.println("La table de multiplicar del 0 al 10 del numero " + NumeroDeUsuario + " es: ");
         
     int ListaDeNumeros [] = {0,1,2,3,4,5,6,7,8,9,10};
     for (int operador : ListaDeNumeros){
